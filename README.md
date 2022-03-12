@@ -1,7 +1,8 @@
 # CityProj
 This will try resembling the possible stores in the cities.
 This project will use the following:
-Primitive and Reference Types,
+Variables,
+Objects,
 Conditionals and Booleans,
 Looping,
 Classes,
