@@ -15,7 +15,7 @@ public class Bakery extends Building{
 		for(int i=0; i<desserts.size(); i++) {
 			res+=desserts.get(i);
 		}
-		return res;
+		return "Height: "+getHeight()+"\nTotal Area: "+getArea()+"\nBuilding Has Windows: "+getHasWindows()+"\n"+res;
 	}
 }
 class Treat{
